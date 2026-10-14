@@ -17,14 +17,27 @@
   "author": "Malik",
   "license": "ISC",
   "dependencies": {
-    "bcryptjs": "^3.0.2",
-    "cors": "^2.8.5",
-    "dotenv": "^17.2.2",
-    "express": "^5.1.0",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.18.0"
+    "axios": "^1.20.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.3.0",
+    "helmet": "^8.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "lucide-react": "^1.56.0",
+    "mongoose": "^8.24.5",
+    "morgan": "^1.12.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.10"
-  }
+    "nodemon": "^3.1.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malikayomide55/Build-Hospital-Management-API.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Malikayomide55/Build-Hospital-Management-API/issues"
+  },
+  "homepage": "https://github.com/Malikayomide55/Build-Hospital-Management-API#readme"
 }
