@@ -6,7 +6,7 @@ const {
   getMedicalRecord,
   updateMedicalRecord,
   deleteMedicalRecord
-} = require("../controllers/medicalRecordController");
+} = require("../controllers/medicalRecordcontroller");
 
 const router = express.Router();
 
